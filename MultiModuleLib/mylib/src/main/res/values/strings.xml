@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyLib</string>
+    <string name="app_name">MyLib2</string>
+    <string name="test_name">This is how composite builds work in Android Studio</string>
 </resources>

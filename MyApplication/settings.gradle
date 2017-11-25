@@ -1,6 +1,6 @@
 include ':app'
 includeBuild('../MultiModuleLib'){
     dependencySubstitution {
-        substitute module('com.ua.mylib:mylib-debug') with project(':mylib')
+        substitute module('com.ua.mylib:mylib') with project(':mylib')
     }
 }
